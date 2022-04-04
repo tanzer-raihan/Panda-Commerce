@@ -1,0 +1,143 @@
+.quick-access-section a {
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.quick-access-section a:hover {
+    color: crimson;
+}
+
+.search-field {
+    padding: 5px;
+    padding-left: 20px;
+
+    margin-right: 10px;
+    border: 0px solid white;
+    font-weight: bold;
+
+}
+
+.search-btn {
+    border: none;
+    padding: 7px;
+    color: gray;
+    font-weight: bold;
+    background-color: white;
+
+}
+
+.search-btn:hover {
+    cursor: pointer;
+    color: crimson
+}
+
+.caroSection {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.caro {
+    background-color: #feeae9;
+
+}
+
+.description {
+    color: gray;
+
+}
+
+.price {
+    color: crimson;
+}
+
+.buy-btn {
+    padding: 10px 20px;
+    background-image: linear-gradient(#ff1e76, crimson);
+    border: 0px solid crimson;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+
+
+}
+
+
+
+
+.category1 {
+    background-color: #FB8DA0;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+
+}
+
+.category2 {
+    background-color: #FB6B90;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+
+}
+
+.category3 {
+    background-color: #ed436b;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+}
+
+.seeAll {
+    color: rgb(246, 140, 99);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.productCard {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    border-radius: 5px;
+}
+
+.buyNow {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 7px 25px;
+    border: 0px solid black;
+}
+
+.clr {
+    color: rgb(154, 40, 63);
+}
+
+.footer {
+    background-color: #feeae9;
+    padding: 50px;
+    height: 300px;
+
+}
+
+.inputField {
+    padding: 10px;
+
+    background-color: white;
+    border: 0px solid white;
+    font-weight: 700;
+    width: 500px;
+
+}
+
+.sendBtn {
+    padding: 10px 20px;
+    background-color: #ea3560;
+    border: 0px solid white;
+    color: white;
+    font-weight: bold;
+
+}
